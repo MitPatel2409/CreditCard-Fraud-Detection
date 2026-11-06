@@ -1,0 +1,12 @@
+# Dataset (150 MB, above GitHub's 100 MB file limit). Download it from Kaggle.
+creditcard.csv/
+creditcard.csv
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# First version of the notebook, kept locally for reference only
+archive/
